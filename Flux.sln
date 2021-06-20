@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{BBC187FE-DF7E-4F0F-865F-389E808E82EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flux", "Flux\Flux.vcxproj", "{C6B0F9DB-13C1-4E19-B9F9-90E5B5BA3FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B0F9DB-13C1-4E19-B9F9-90E5B5BA3FE7}.Debug|x64.ActiveCfg = Debug|x64
+		{C6B0F9DB-13C1-4E19-B9F9-90E5B5BA3FE7}.Debug|x64.Build.0 = Debug|x64
+		{C6B0F9DB-13C1-4E19-B9F9-90E5B5BA3FE7}.Release|x64.ActiveCfg = Release|x64
+		{C6B0F9DB-13C1-4E19-B9F9-90E5B5BA3FE7}.Release|x64.Build.0 = Release|x64
+		{BBC187FE-DF7E-4F0F-865F-389E808E82EC}.Debug|x64.ActiveCfg = Debug|x64
+		{BBC187FE-DF7E-4F0F-865F-389E808E82EC}.Debug|x64.Build.0 = Debug|x64
+		{BBC187FE-DF7E-4F0F-865F-389E808E82EC}.Release|x64.ActiveCfg = Release|x64
+		{BBC187FE-DF7E-4F0F-865F-389E808E82EC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA99215-42A0-4E49-BECA-6EA9E76C4FCD}
+	EndGlobalSection
+EndGlobal
