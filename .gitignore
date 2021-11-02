@@ -39,3 +39,5 @@
 bin
 bin-int
 .vs
+Flux/vendor/GLFW
+Flux/vendor/GLFW
