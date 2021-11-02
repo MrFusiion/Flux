@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\FuSe-\Pictures\FluxLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Flux.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.2042912"
+     inkscape:cx="505.69165"
+     inkscape:cy="227.9349"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient79209">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop79205" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop79207" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient79209"
+       id="linearGradient79211"
+       x1="103.01791"
+       y1="400.1499"
+       x2="358.79916"
+       y2="400.1499"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <g
+       id="g44711"
+       transform="translate(11.15596,6.4587097)"
+       style="fill:#ec4e57;fill-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke:#f5f5f5;stroke-opacity:1">
+      <path
+         d="M 516.95551,284.99904"
+         style="fill:none;stroke:#eaeaea;stroke-width:30;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:19.6;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path25257" />
+      <path
+         style="color:#000000;fill:#eaeaea;fill-opacity:1;stroke:#e9e9e9;stroke-width:5.09229;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 128.52586,91.780754 c -12.95071,2.339931 -8.80944,21.023366 0,21.303066 h 230.71092 c 0.27782,3.33342 -0.20572,9.41365 -1.83714,15.81561 -1.7472,6.85629 -4.59792,14.02468 -7.57165,18.9838 -2.3235,3.87475 -4.84636,5.64994 -5.24193,6.14628 H 130.60153 c -5.67589,3.4e-4 -10.35458,4.4512 -10.63805,10.12 l -10.33563,207.0507 -0.61837,12.3674 0.31593,-2.09767 c -0.82368,3.23415 -0.23188,6.92974 1.03761,9.49563 1.2695,2.56592 2.92909,4.2399 4.5382,5.56235 3.21823,2.64491 6.56634,4.12281 10.30268,5.4695 7.47268,2.69343 16.54001,4.37299 25.90866,5.03531 9.36867,0.66232 18.83323,0.37229 27.34454,-2.12763 4.25565,-1.24994 8.4114,-3.04871 12.05298,-6.40678 3.64157,-3.35806 6.41333,-8.86141 6.40081,-14.42464 l -0.033,0.86242 0.74864,-9.48516 c 0.008,-0.10668 0.0156,-0.21352 0.021,-0.32042 l 6.8395,-140.31162 112.48947,-0.69173 c 0.0497,0.41536 0.10996,0.38904 0.13774,0.87439 0.25133,4.38354 -0.39488,11.2491 -1.89105,18.05401 -1.49615,6.80491 -3.84598,13.68163 -6.3454,18.45977 -1.72613,3.29986 -3.59118,5.02586 -4.23276,5.71805 h -70.25908 c -5.88223,-3.2e-4 -8.28795,5.1054 -8.28844,10.98763 -3.3e-4,5.88282 2.40562,10.31428 8.28844,10.31395 h 73.03804 c 0.94686,-1.3e-4 1.88944,-0.12654 2.80289,-0.37581 9.31342,-2.5394 13.78049,-9.6072 17.52698,-16.76937 3.74647,-7.16216 6.44858,-15.45134 8.27538,-23.76008 1.8268,-8.30872 2.77327,-16.50439 2.3522,-23.84843 -0.21054,-3.67201 -0.69358,-7.14283 -2.15006,-10.73388 -1.45651,-3.59104 -4.5339,-8.08308 -10.00023,-9.78013 -1.04361,-0.32412 -2.13087,-0.48572 -3.22362,-0.47911 l -128.73329,0.79204 c -5.65482,0.0357 -10.29622,4.48378 -10.57218,10.13198 l -7.32312,150.22052 -0.72317,9.15429 c -0.46633,0.30506 -1.42817,0.85822 -3.20116,1.37896 -4.43554,1.30281 -12.18066,1.86059 -19.84024,1.3191 -7.65959,-0.5415 -15.43852,-2.11732 -20.18613,-3.8285 -1.16424,-0.41964 -1.26458,-0.56608 -1.96291,-0.92532 l 0.43721,-8.76798 9.83103,-196.93216 h 205.81095 c 0.59099,9e-5 1.18094,-0.049 1.76378,-0.14673 10.10837,-1.69696 15.36899,-8.9741 19.78936,-16.34565 4.42033,-7.37155 7.74302,-16.03913 9.94482,-24.6794 2.20179,-8.64024 3.39559,-17.01396 2.31325,-24.8965 -0.54114,-3.94126 -1.57053,-8.04737 -4.86011,-11.897258 -3.28958,-3.84989 -9.62872,-6.181989 -14.73756,-5.487489 l 1.43438,-0.09731 z"
+         id="path44709"
+         sodipodi:nodetypes="cccssccccccssssssccccccsssccccccssssccccccssscccccssssccc"
+         inkscape:export-filename="C:\Users\FuSe-\Pictures\FluxLogo.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
