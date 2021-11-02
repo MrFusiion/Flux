@@ -1,0 +1,9 @@
+[submodule "Flux/vendor/GLFW"]
+	path = Flux/vendor/GLFW
+	url = https://github.com/mrfusiion/GLFW
+[submodule "Flux/vendor/Glad"]
+	path = Flux/vendor/Glad
+	url = https://github.com/mrfusiion/Glad
+[submodule "Flux/vendor/SpdLog"]
+	path = Flux/vendor/SpdLog
+	url = https://github.com/mrfusiion/SpdLog
