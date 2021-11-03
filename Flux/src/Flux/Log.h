@@ -26,14 +26,14 @@ namespace Flux {
 	#define FLUX_CORE_INFO(...)     ::Flux::Log::GetCoreLogger()->info(__VA_ARGS__)
 	#define FLUX_CORE_WARN(...)     ::Flux::Log::GetCoreLogger()->warn(__VA_ARGS__)
 	#define FLUX_CORE_ERROR(...)    ::Flux::Log::GetCoreLogger()->error(__VA_ARGS__)
-	#define FLUX_CORE_FATAL(...)    ::Flux::Log::GetCoreLogger()->fatal(__VA_ARGS__)
+	#define FLUX_CORE_FATAL(...)    ::Flux::Log::GetCoreLogger()->critical(__VA_ARGS__)
 
 	// Client log macros
 	#define FLUX_TRACE(...)	      ::Flux::Log::GetClientLogger()->trace(__VA_ARGS__)
 	#define FLUX_INFO(...)	      ::Flux::Log::GetClientLogger()->info(__VA_ARGS__)
 	#define FLUX_WARN(...)	      ::Flux::Log::GetClientLogger()->warn(__VA_ARGS__)
 	#define FLUX_ERROR(...)	      ::Flux::Log::GetClientLogger()->error(__VA_ARGS__)
-	#define FLUX_FATAL(...)	      ::Flux::Log::GetClientLogger()->fatal(__VA_ARGS__)
+	#define FLUX_FATAL(...)	      ::Flux::Log::GetClientLogger()->critical(__VA_ARGS__)
 
 	#ifdef FLUX_ENABLE_ASSERTS
 		#define FLUX_ASSERT(x, ...) { if(!(x)) { FLUX_ERROR("Assertion Failed: {0}", __VA_ARGS__); __debugbreak(); } }
