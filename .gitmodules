@@ -8,3 +8,6 @@
 [submodule "Flux/vendor/SpdLog"]
 	path = Flux/vendor/SpdLog
 	url = https://github.com/mrfusiion/SpdLog
+[submodule "Flux/vendor/ImGui"]
+	path = Flux/vendor/ImGui
+	url = https://github.com/mrfusiion/imgui

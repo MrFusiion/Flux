@@ -21,9 +21,11 @@ project "Flux"
 		"%{INCLUDE_DIR.SpdLog}",
 		"%{INCLUDE_DIR.GLFW}",
 		"%{INCLUDE_DIR.Glad}",
+		"%{INCLUDE_DIR.ImGui}",
 	}
 
     links{
+		"ImGui",
 		"GLFW",
 		"Glad",
 		"opengl32.lib"

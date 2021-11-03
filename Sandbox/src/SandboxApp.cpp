@@ -28,6 +28,7 @@ public:
 Sandbox::Sandbox()
 {
 	PushLayer(new ExampleLayer());
+	PushLayer(new Flux::ImGuiLayer());
 }
 
 Sandbox::~Sandbox()

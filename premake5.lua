@@ -28,6 +28,7 @@ group "Dependencies"
     include "vendor/premake"
     include "Flux/vendor/GLFW"
     include "Flux/vendor/Glad"
+	include "Flux/vendor/ImGui"
 group ""
 
 include "Flux"
