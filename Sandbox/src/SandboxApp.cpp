@@ -8,12 +8,12 @@ public:
 
 	void OnUpdate() override
 	{
-		FLUX_INFO("ExampleLayer::Update");
+		//FLUX_INFO("ExampleLayer::Update");
 	}
 
 	void OnEvent(Flux::Event& event) override
 	{
-		FLUX_TRACE("{0}", event);
+		//FLUX_TRACE("{0}", event);
 	}
 
 };

@@ -2,7 +2,7 @@ project "Sandbox"
 	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++17"
-	staticruntime "on"
+	staticruntime "off"
 
 	targetdir(TARGET_DIR)
 	objdir(OBJ_DIR)
@@ -31,18 +31,15 @@ project "Sandbox"
 
 	filter "configurations:Debug"
 		defines "FLUX_DEBUG"
-		buildoptions "/MDd"
 		runtime "Debug"
 		symbols "on"
 
 	filter "configurations:Release"
 		defines "FLUX_RELEASE"
-		buildoptions "/MD"
 		runtime "Release"
 		optimize  "on"
 
 	filter "configurations:Dist"
 		defines "FLUX_DIST"
-		buildoptions "/MD"
 		runtime "Release"
 		optimize  "on"
